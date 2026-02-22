@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RescueRoute — AI Food Rescue & Redistribution (PoC)
 
 One-liner: Detect surplus food and optimally match & route pickups to verified NGOs.
@@ -34,3 +35,6 @@ git commit -m "Initial RescueRoute PoC"
 git remote add origin <your-github-url>
 git branch -M main
 git push -u origin main
+=======
+# RescueRoute
+>>>>>>> ecfb632fc5cf77f397c13e5fa3818ee0efe2f500
