@@ -1,0 +1,5 @@
+[
+  {"id":1,"name":"Sunrise Orphanage","lat":11.0168,"lng":76.9558,"capacity":50,"tags":["children","hot_meals"],"contact":"+91-90000XXXXX"},
+  {"id":2,"name":"HelpingHands Shelter","lat":11.0250,"lng":76.9500,"capacity":100,"tags":["seniors","hot_meals"],"contact":"+91-90000YYYYY"},
+  {"id":3,"name":"Community Kitchen A","lat":11.0100,"lng":76.9600,"capacity":200,"tags":["hot_meals","any"],"contact":"+91-90000ZZZZZ"}
+]

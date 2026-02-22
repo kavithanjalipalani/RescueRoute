@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pillow
+python-multipart
+torch
+torchvision
+transformers
+numpy
+scikit-learn
+pandas
+ortools
+shap
+lime
+requests
+python-dotenv

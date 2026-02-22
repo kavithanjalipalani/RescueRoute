@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; background:#f6f6f6; color:#222; margin:0; }
+.app { max-width:980px; margin:20px auto; padding:20px; background:white; box-shadow:0 2px 12px rgba(0,0,0,0.06); border-radius:8px; }
+header h1 { margin:0 0 12px 0; font-size:20px; color:#1f2d3d; }
+.upload-card label { display:block; margin-top:8px; font-weight:600; }
+.upload-card input, .upload-card textarea { width:100%; margin-top:6px; padding:8px; border:1px solid #ddd; border-radius:6px; }
+.upload-card textarea { height:80px; resize:vertical; }
+button { margin-top:10px; padding:10px 14px; background:#ff6f61; color:white; border:none; cursor:pointer; border-radius:6px; font-weight:600;}
+.result-card { margin-top:16px; padding:12px; border:1px solid #eee; border-radius:6px; }
+footer { text-align:center; margin-top:12px; color:#666;}
