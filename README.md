@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # RescueRoute — AI Food Rescue & Redistribution (PoC)
 
 One-liner: Detect surplus food and optimally match & route pickups to verified NGOs.
@@ -31,8 +31,7 @@ Team RescueRoute — <Lalit Kishore Alias Ashwanth Krishna KP \ iamashwanthkrish
 ```bash
 git add .
 git commit -m "Initial RescueRoute PoC"
-# replace <your-github-url> with the GitHub repo clone URL
-git remote add origin <your-github-url>
+git remote add origin <https://github.com/kavithanjalipalani/RescueRoute.git>
 git branch -M main
 git push -u origin main
 =======
